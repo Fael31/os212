@@ -21,3 +21,6 @@ Do you wanna know how the file (such as text, image, audio, doc, etc) is stored 
 ### 4. [028 Mounting And Unmounting Of Filesystems](https://www.youtube.com/watch?v=OofENBUVfOo)
 Mounting vs Unmounting in Filesystems. This video also includes demo in explaining the diffrence.
 <br>
+
+### 5. [File Systems in Operating System](https://www.geeksforgeeks.org/file-systems-in-operating-system/)
+Penjelasan seputar file systems dari GeeksforGeeks. Mudah dipahami dan juga disertai dengan gambar.
