@@ -11,3 +11,10 @@ Recommended untuk pengenalan ke sistem operasi.
 ### 2. [C Programming | In One Video](https://www.youtube.com/watch?v=3lQEunpmtRA)
 Basic understanding about C file, include input/output syntax, variables which using for store the data (variables in C is little bit unique to
 any other high level programming language), introducing to data type. 
+<br>
+
+### 3. [Files & File Systems: Crash Course Computer Science #20](https://www.youtube.com/watch?v=KN8YgJnShPM)
+Do you wanna know how the file (such as text, image, audio, doc, etc) is stored in the computer? Check this out!!!
+<br>
+
+
