@@ -24,3 +24,10 @@ Mounting vs Unmounting in Filesystems. This video also includes demo in explaini
 
 ### 5. [File Systems in Operating System](https://www.geeksforgeeks.org/file-systems-in-operating-system/)
 Penjelasan seputar file systems dari GeeksforGeeks. Mudah dipahami dan juga disertai dengan gambar.
+<br>
+
+### 6. [Memory Management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/)
+Website yang berisi penjelasan mengenai management memory yang cukup lengkap untuk pemahaman tentang dasar main memory di operating system.
+
+### 7. [Pointers in C and C++ | Set 1 (Introduction, Arithmetic and Array)](https://www.geeksforgeeks.org/pointers-in-c-and-c-set-1-introduction-arithmetic-and-array/)
+Tutorial singkat mengenai pointer pada C dan C++, yang akan berguna dalam alokasi memori di operating system
