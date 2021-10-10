@@ -31,3 +31,12 @@ Website yang berisi penjelasan mengenai management memory yang cukup lengkap unt
 
 ### 7. [Pointers in C and C++ | Set 1 (Introduction, Arithmetic and Array)](https://www.geeksforgeeks.org/pointers-in-c-and-c-set-1-introduction-arithmetic-and-array/)
 Tutorial singkat mengenai pointer pada C dan C++, yang akan berguna dalam alokasi memori di operating system
+
+### 8. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/#:~:text=Virtual%20memory%20is%20implemented%20using,is%20known%20as%20demand%20paging.&text=The%20page%20replacement%20algorithms%20are,page%20in%20physical%20address%20space.)
+Penjelasan mengenai virtual memory, manfaat penggunaan, dan operasi pada virtual memory, juga disertai dengan gambar ilustrasi.
+
+### 9. [Operating Systems Chapter 9 - Virtual Memory](https://www.youtube.com/watch?v=KTx9RNfyFO8)
+Video pembelajaran mengenai materi virual memory di sistem operasi. Penjelasan video berdasarkan slide yang digunakan pada pembelajaran kelas Sistem Operasi ganjil 2021/2022 Fasilkom UI.
+
+### 10. [How does Virtual Memory work?](https://www.youtube.com/watch?v=59MxYkCs1rg)
+VIdeo ini menjelaskan tentang bagaimana virtual memory bekerja dan bagaimana swap data dari RAM ke secondary storage.
