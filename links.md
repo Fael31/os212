@@ -40,3 +40,9 @@ Video pembelajaran mengenai materi virual memory di sistem operasi. Penjelasan v
 
 ### 10. [How does Virtual Memory work?](https://www.youtube.com/watch?v=59MxYkCs1rg)
 VIdeo ini menjelaskan tentang bagaimana virtual memory bekerja dan bagaimana swap data dari RAM ke secondary storage.
+
+### 11. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)
+Penjelasan mengenai apa itu fork() dan demo penggunaan fork() pada program C sederhana.
+
+### 12. [fork() and exec() System Calls](https://www.youtube.com/watch?v=IFEFVXvjiHY)
+Video pembelajaran tentang fork() dan exec() system calls
