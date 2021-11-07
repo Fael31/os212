@@ -46,3 +46,10 @@ Penjelasan mengenai apa itu fork() dan demo penggunaan fork() pada program C sed
 
 ### 12. [fork() and exec() System Calls](https://www.youtube.com/watch?v=IFEFVXvjiHY)
 Video pembelajaran tentang fork() dan exec() system calls
+
+### 13. [OS W07](https://www.youtube.com/playlist?list=PLBXapj649rh_k_gQuLpzpCLx_BNmqOAai)
+Video pembelajaran dari Pak Anwar, yang menjelaskan tentang Introduction to Threads, Semaphore, dan Sychronization
+
+### 14. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
+Materi singkat mengenai pengenalan tentang Process Synchronizaion. Materinya mudah untuk dipahami, sehingga sangat direkomendasikan.
+
