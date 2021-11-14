@@ -53,3 +53,5 @@ Video pembelajaran dari Pak Anwar, yang menjelaskan tentang Introduction to Thre
 ### 14. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
 Materi singkat mengenai pengenalan tentang Process Synchronizaion. Materinya mudah untuk dipahami, sehingga sangat direkomendasikan.
 
+### 15. [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)
+Penjelasan mengenai perkenalan CPU scheduling pada sistem operasi.
